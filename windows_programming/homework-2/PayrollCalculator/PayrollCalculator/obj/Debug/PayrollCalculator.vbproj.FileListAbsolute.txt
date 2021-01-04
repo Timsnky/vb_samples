@@ -1,0 +1,13 @@
+D:\Development\VisualStudio\WindowsProgramming\homework-2-SultanAbuhaqab\PayrollCalculator\PayrollCalculator\bin\Debug\PayrollCalculator.exe.config
+D:\Development\VisualStudio\WindowsProgramming\homework-2-SultanAbuhaqab\PayrollCalculator\PayrollCalculator\bin\Debug\PayrollCalculator.exe
+D:\Development\VisualStudio\WindowsProgramming\homework-2-SultanAbuhaqab\PayrollCalculator\PayrollCalculator\bin\Debug\PayrollCalculator.pdb
+D:\Development\VisualStudio\WindowsProgramming\homework-2-SultanAbuhaqab\PayrollCalculator\PayrollCalculator\bin\Debug\PayrollCalculator.xml
+D:\Development\VisualStudio\WindowsProgramming\homework-2-SultanAbuhaqab\PayrollCalculator\PayrollCalculator\obj\Debug\PayrollCalculator.vbprojAssemblyReference.cache
+D:\Development\VisualStudio\WindowsProgramming\homework-2-SultanAbuhaqab\PayrollCalculator\PayrollCalculator\obj\Debug\PayrollCalculator.frmPayrollCalculator.resources
+D:\Development\VisualStudio\WindowsProgramming\homework-2-SultanAbuhaqab\PayrollCalculator\PayrollCalculator\obj\Debug\PayrollCalculator.Resources.resources
+D:\Development\VisualStudio\WindowsProgramming\homework-2-SultanAbuhaqab\PayrollCalculator\PayrollCalculator\obj\Debug\PayrollCalculator.vbproj.GenerateResource.cache
+D:\Development\VisualStudio\WindowsProgramming\homework-2-SultanAbuhaqab\PayrollCalculator\PayrollCalculator\obj\Debug\PayrollCalculator.vbproj.CoreCompileInputs.cache
+D:\Development\VisualStudio\WindowsProgramming\homework-2-SultanAbuhaqab\PayrollCalculator\PayrollCalculator\obj\Debug\PayrollCalculator.exe
+D:\Development\VisualStudio\WindowsProgramming\homework-2-SultanAbuhaqab\PayrollCalculator\PayrollCalculator\obj\Debug\PayrollCalculator.xml
+D:\Development\VisualStudio\WindowsProgramming\homework-2-SultanAbuhaqab\PayrollCalculator\PayrollCalculator\obj\Debug\PayrollCalculator.pdb
+D:\Development\VisualStudio\WindowsProgramming\homework-2-SultanAbuhaqab\PayrollCalculator\PayrollCalculator\obj\Debug\PayrollCalculator.frmStats.resources

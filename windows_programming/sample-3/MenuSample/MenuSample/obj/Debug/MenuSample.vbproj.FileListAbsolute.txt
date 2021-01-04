@@ -1,0 +1,13 @@
+D:\Development\VisualStudio\WindowsProgramming\sample-3-SultanAbuhaqab\MenuSample\MenuSample\bin\Debug\MenuSample.exe.config
+D:\Development\VisualStudio\WindowsProgramming\sample-3-SultanAbuhaqab\MenuSample\MenuSample\bin\Debug\MenuSample.exe
+D:\Development\VisualStudio\WindowsProgramming\sample-3-SultanAbuhaqab\MenuSample\MenuSample\bin\Debug\MenuSample.pdb
+D:\Development\VisualStudio\WindowsProgramming\sample-3-SultanAbuhaqab\MenuSample\MenuSample\bin\Debug\MenuSample.xml
+D:\Development\VisualStudio\WindowsProgramming\sample-3-SultanAbuhaqab\MenuSample\MenuSample\obj\Debug\MenuSample.vbprojAssemblyReference.cache
+D:\Development\VisualStudio\WindowsProgramming\sample-3-SultanAbuhaqab\MenuSample\MenuSample\obj\Debug\MenuSample.frmMenus.resources
+D:\Development\VisualStudio\WindowsProgramming\sample-3-SultanAbuhaqab\MenuSample\MenuSample\obj\Debug\MenuSample.Resources.resources
+D:\Development\VisualStudio\WindowsProgramming\sample-3-SultanAbuhaqab\MenuSample\MenuSample\obj\Debug\MenuSample.vbproj.GenerateResource.cache
+D:\Development\VisualStudio\WindowsProgramming\sample-3-SultanAbuhaqab\MenuSample\MenuSample\obj\Debug\MenuSample.vbproj.CoreCompileInputs.cache
+D:\Development\VisualStudio\WindowsProgramming\sample-3-SultanAbuhaqab\MenuSample\MenuSample\obj\Debug\MenuSample.exe
+D:\Development\VisualStudio\WindowsProgramming\sample-3-SultanAbuhaqab\MenuSample\MenuSample\obj\Debug\MenuSample.xml
+D:\Development\VisualStudio\WindowsProgramming\sample-3-SultanAbuhaqab\MenuSample\MenuSample\obj\Debug\MenuSample.pdb
+D:\Development\VisualStudio\WindowsProgramming\sample-3-SultanAbuhaqab\MenuSample\MenuSample\obj\Debug\MenuSample.frmAbout.resources

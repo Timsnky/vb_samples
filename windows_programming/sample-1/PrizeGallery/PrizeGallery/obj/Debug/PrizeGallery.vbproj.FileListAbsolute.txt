@@ -1,0 +1,16 @@
+D:\Development\VisualStudio\WindowsProgramming\sample-1-SultanAbuhaqab\PrizeGallery\PrizeGallery\bin\Debug\PrizeGallery.exe.config
+D:\Development\VisualStudio\WindowsProgramming\sample-1-SultanAbuhaqab\PrizeGallery\PrizeGallery\bin\Debug\PrizeGallery.exe
+D:\Development\VisualStudio\WindowsProgramming\sample-1-SultanAbuhaqab\PrizeGallery\PrizeGallery\bin\Debug\PrizeGallery.pdb
+D:\Development\VisualStudio\WindowsProgramming\sample-1-SultanAbuhaqab\PrizeGallery\PrizeGallery\bin\Debug\PrizeGallery.xml
+D:\Development\VisualStudio\WindowsProgramming\sample-1-SultanAbuhaqab\PrizeGallery\PrizeGallery\obj\Debug\PrizeGallery.vbprojAssemblyReference.cache
+D:\Development\VisualStudio\WindowsProgramming\sample-1-SultanAbuhaqab\PrizeGallery\PrizeGallery\obj\Debug\PrizeGallery.Resources.resources
+D:\Development\VisualStudio\WindowsProgramming\sample-1-SultanAbuhaqab\PrizeGallery\PrizeGallery\obj\Debug\PrizeGallery.vbproj.GenerateResource.cache
+D:\Development\VisualStudio\WindowsProgramming\sample-1-SultanAbuhaqab\PrizeGallery\PrizeGallery\obj\Debug\PrizeGallery.vbproj.CoreCompileInputs.cache
+D:\Development\VisualStudio\WindowsProgramming\sample-1-SultanAbuhaqab\PrizeGallery\PrizeGallery\obj\Debug\PrizeGallery.exe
+D:\Development\VisualStudio\WindowsProgramming\sample-1-SultanAbuhaqab\PrizeGallery\PrizeGallery\obj\Debug\PrizeGallery.xml
+D:\Development\VisualStudio\WindowsProgramming\sample-1-SultanAbuhaqab\PrizeGallery\PrizeGallery\obj\Debug\PrizeGallery.pdb
+D:\Development\VisualStudio\WindowsProgramming\sample-1-SultanAbuhaqab\PrizeGallery\PrizeGallery\obj\Debug\PrizeGallery.frmMain.resources
+D:\Development\VisualStudio\WindowsProgramming\sample-1-SultanAbuhaqab\PrizeGallery\PrizeGallery\bin\Debug\Resources\consolation prize.png
+D:\Development\VisualStudio\WindowsProgramming\sample-1-SultanAbuhaqab\PrizeGallery\PrizeGallery\bin\Debug\Resources\prize-2.png
+D:\Development\VisualStudio\WindowsProgramming\sample-1-SultanAbuhaqab\PrizeGallery\PrizeGallery\bin\Debug\Resources\prize-3.png
+D:\Development\VisualStudio\WindowsProgramming\sample-1-SultanAbuhaqab\PrizeGallery\PrizeGallery\bin\Debug\Resources\prize-1.png

@@ -1,0 +1,12 @@
+D:\Development\VisualStudio\WindowsProgramming\sample-6-SultanAbuhaqab\DateTimeSample\DateTimeSample\bin\Debug\DateTimeSample.exe.config
+D:\Development\VisualStudio\WindowsProgramming\sample-6-SultanAbuhaqab\DateTimeSample\DateTimeSample\bin\Debug\DateTimeSample.exe
+D:\Development\VisualStudio\WindowsProgramming\sample-6-SultanAbuhaqab\DateTimeSample\DateTimeSample\bin\Debug\DateTimeSample.pdb
+D:\Development\VisualStudio\WindowsProgramming\sample-6-SultanAbuhaqab\DateTimeSample\DateTimeSample\bin\Debug\DateTimeSample.xml
+D:\Development\VisualStudio\WindowsProgramming\sample-6-SultanAbuhaqab\DateTimeSample\DateTimeSample\obj\Debug\DateTimeSample.vbprojAssemblyReference.cache
+D:\Development\VisualStudio\WindowsProgramming\sample-6-SultanAbuhaqab\DateTimeSample\DateTimeSample\obj\Debug\DateTimeSample.frmMain.resources
+D:\Development\VisualStudio\WindowsProgramming\sample-6-SultanAbuhaqab\DateTimeSample\DateTimeSample\obj\Debug\DateTimeSample.Resources.resources
+D:\Development\VisualStudio\WindowsProgramming\sample-6-SultanAbuhaqab\DateTimeSample\DateTimeSample\obj\Debug\DateTimeSample.vbproj.GenerateResource.cache
+D:\Development\VisualStudio\WindowsProgramming\sample-6-SultanAbuhaqab\DateTimeSample\DateTimeSample\obj\Debug\DateTimeSample.vbproj.CoreCompileInputs.cache
+D:\Development\VisualStudio\WindowsProgramming\sample-6-SultanAbuhaqab\DateTimeSample\DateTimeSample\obj\Debug\DateTimeSample.exe
+D:\Development\VisualStudio\WindowsProgramming\sample-6-SultanAbuhaqab\DateTimeSample\DateTimeSample\obj\Debug\DateTimeSample.xml
+D:\Development\VisualStudio\WindowsProgramming\sample-6-SultanAbuhaqab\DateTimeSample\DateTimeSample\obj\Debug\DateTimeSample.pdb

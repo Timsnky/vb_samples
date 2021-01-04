@@ -1,0 +1,15 @@
+D:\Development\VisualStudio\WindowsProgramming\sample-7-SultanAbuhaqab\MultiPaneSample\MultiPaneSample\bin\Debug\MultiPaneSample.exe.config
+D:\Development\VisualStudio\WindowsProgramming\sample-7-SultanAbuhaqab\MultiPaneSample\MultiPaneSample\bin\Debug\MultiPaneSample.exe
+D:\Development\VisualStudio\WindowsProgramming\sample-7-SultanAbuhaqab\MultiPaneSample\MultiPaneSample\bin\Debug\MultiPaneSample.pdb
+D:\Development\VisualStudio\WindowsProgramming\sample-7-SultanAbuhaqab\MultiPaneSample\MultiPaneSample\bin\Debug\MultiPaneSample.xml
+D:\Development\VisualStudio\WindowsProgramming\sample-7-SultanAbuhaqab\MultiPaneSample\MultiPaneSample\obj\Debug\MultiPaneSample.vbprojAssemblyReference.cache
+D:\Development\VisualStudio\WindowsProgramming\sample-7-SultanAbuhaqab\MultiPaneSample\MultiPaneSample\obj\Debug\MultiPaneSample.frmMain.resources
+D:\Development\VisualStudio\WindowsProgramming\sample-7-SultanAbuhaqab\MultiPaneSample\MultiPaneSample\obj\Debug\MultiPaneSample.Resources.resources
+D:\Development\VisualStudio\WindowsProgramming\sample-7-SultanAbuhaqab\MultiPaneSample\MultiPaneSample\obj\Debug\MultiPaneSample.vbproj.GenerateResource.cache
+D:\Development\VisualStudio\WindowsProgramming\sample-7-SultanAbuhaqab\MultiPaneSample\MultiPaneSample\obj\Debug\MultiPaneSample.vbproj.CoreCompileInputs.cache
+D:\Development\VisualStudio\WindowsProgramming\sample-7-SultanAbuhaqab\MultiPaneSample\MultiPaneSample\obj\Debug\MultiPaneSample.exe
+D:\Development\VisualStudio\WindowsProgramming\sample-7-SultanAbuhaqab\MultiPaneSample\MultiPaneSample\obj\Debug\MultiPaneSample.xml
+D:\Development\VisualStudio\WindowsProgramming\sample-7-SultanAbuhaqab\MultiPaneSample\MultiPaneSample\obj\Debug\MultiPaneSample.pdb
+D:\Development\VisualStudio\WindowsProgramming\sample-7-SultanAbuhaqab\MultiPaneSample\MultiPaneSample\obj\Debug\MultiPaneSample.subfrmWelcome.resources
+D:\Development\VisualStudio\WindowsProgramming\sample-7-SultanAbuhaqab\MultiPaneSample\MultiPaneSample\obj\Debug\MultiPaneSample.subfrmCust.resources
+D:\Development\VisualStudio\WindowsProgramming\sample-7-SultanAbuhaqab\MultiPaneSample\MultiPaneSample\obj\Debug\MultiPaneSample.subfrmOrder.resources

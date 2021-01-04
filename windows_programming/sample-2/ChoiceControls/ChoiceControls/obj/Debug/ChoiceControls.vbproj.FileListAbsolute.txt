@@ -1,0 +1,13 @@
+D:\Development\VisualStudio\WindowsProgramming\sample-2-SultanAbuhaqab\ChoiceControls\ChoiceControls\bin\Debug\ChoiceControls.exe.config
+D:\Development\VisualStudio\WindowsProgramming\sample-2-SultanAbuhaqab\ChoiceControls\ChoiceControls\bin\Debug\ChoiceControls.exe
+D:\Development\VisualStudio\WindowsProgramming\sample-2-SultanAbuhaqab\ChoiceControls\ChoiceControls\bin\Debug\ChoiceControls.pdb
+D:\Development\VisualStudio\WindowsProgramming\sample-2-SultanAbuhaqab\ChoiceControls\ChoiceControls\bin\Debug\ChoiceControls.xml
+D:\Development\VisualStudio\WindowsProgramming\sample-2-SultanAbuhaqab\ChoiceControls\ChoiceControls\obj\Debug\ChoiceControls.vbprojAssemblyReference.cache
+D:\Development\VisualStudio\WindowsProgramming\sample-2-SultanAbuhaqab\ChoiceControls\ChoiceControls\obj\Debug\ChoiceControls.frmChoices.resources
+D:\Development\VisualStudio\WindowsProgramming\sample-2-SultanAbuhaqab\ChoiceControls\ChoiceControls\obj\Debug\ChoiceControls.Resources.resources
+D:\Development\VisualStudio\WindowsProgramming\sample-2-SultanAbuhaqab\ChoiceControls\ChoiceControls\obj\Debug\ChoiceControls.vbproj.GenerateResource.cache
+D:\Development\VisualStudio\WindowsProgramming\sample-2-SultanAbuhaqab\ChoiceControls\ChoiceControls\obj\Debug\ChoiceControls.vbproj.CoreCompileInputs.cache
+D:\Development\VisualStudio\WindowsProgramming\sample-2-SultanAbuhaqab\ChoiceControls\ChoiceControls\obj\Debug\ChoiceControls.exe
+D:\Development\VisualStudio\WindowsProgramming\sample-2-SultanAbuhaqab\ChoiceControls\ChoiceControls\obj\Debug\ChoiceControls.xml
+D:\Development\VisualStudio\WindowsProgramming\sample-2-SultanAbuhaqab\ChoiceControls\ChoiceControls\obj\Debug\ChoiceControls.pdb
+D:\Development\VisualStudio\WindowsProgramming\sample-2-SultanAbuhaqab\ChoiceControls\ChoiceControls\obj\Debug\ChoiceControls.frmSummary.resources
